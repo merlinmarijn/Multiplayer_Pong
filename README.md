@@ -1,8 +1,6 @@
 # Multiplayer Pong (GainPlay)
 Een pong game die is gemaakt met de UNet api from unity to handle networking.
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
-
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
