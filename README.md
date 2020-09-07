@@ -15,6 +15,6 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [The Guide To Game Design](link)
+- [Basic Networking Tutorial](https://www.youtube.com/watch?v=0H_ikQp9aTI)
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
