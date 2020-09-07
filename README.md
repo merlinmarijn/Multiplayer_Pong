@@ -1,6 +1,20 @@
-# Multiplayer_Pong
+# Multiplayer Pong (GainPlay)
+Een pong game die is gemaakt met de UNet api from unity to handle networking.
 
+## Features
+Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-If both parties are on a hard line connection on the same network you can host/join a lan game,
+- Lan Games (Hardline Connection)
+- Multiplayer (Matchmaking, Lobbies)
 
-If not on a hardline connection with each other you have to open a matchmaking lobby and the other participant can join a lobby from outside of the same network.
+## Leerdoelen 
+Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
+- Het leeren van UNet en het maaken van een network.
+- Wat je in het netwerk moet doen en wat client side.
+
+## Bronnen
+Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
+
+- [Basic Networking Tutorial](https://www.youtube.com/watch?v=0H_ikQp9aTI)
+- [Alleatoric Algorithms](link)
+- [Flood-Fill Wikipedia](link)
