@@ -9,9 +9,8 @@ Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie ben
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+- Het leeren van UNet en het maaken van een network.
+- Wat je in het netwerk moet doen en wat client side.
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
