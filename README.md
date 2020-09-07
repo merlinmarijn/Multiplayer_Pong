@@ -4,9 +4,8 @@ Een pong game die is gemaakt met de UNet api from unity to handle networking.
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- Lan Games (Hardline Connection)
+- Multiplayer (Matchmaking, Lobbies)
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
