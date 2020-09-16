@@ -6,6 +6,7 @@ Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie ben
 
 - Lan Games (Hardline Connection)
 - Multiplayer (Matchmaking, Lobbies)
+- Speed up (the longer hasnt been scored)
 
 ## Leerdoelen (TEMP)
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
@@ -16,5 +17,4 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [Basic Networking Tutorial](https://www.youtube.com/watch?v=0H_ikQp9aTI)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [Unity's UNet documentation](https://docs.unity3d.com/Manual/UNet.html)
