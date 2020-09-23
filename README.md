@@ -21,5 +21,4 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 
 
-- ![#FF0000](https://via.placeholder.com/15/1589F0/000000?text=+test_text_colored) `#FF0000`
-style="color:orange;">Word up</span>
+`#FF0000` text
