@@ -21,4 +21,4 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 ## IMPORTANT
 
-(&#x1F534;) Cause of Unity's UNet Api beyond depricated and buggy, if the host closes the lobby while a other client is connected it cant automatically go back to main screen, cause of this the client user needs to press escape to back to the main menu.
+(&#x1F534;) Cause of Unity's UNet Api being depricated and buggy, if the host closes the lobby while a other client is connected it cant automatically go back to main screen, cause of this the client user needs to press escape to back to the main menu.
