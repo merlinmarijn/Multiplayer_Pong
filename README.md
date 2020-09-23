@@ -19,6 +19,4 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 - [Basic Networking Tutorial](https://www.youtube.com/watch?v=0H_ikQp9aTI)
 - [Unity's UNet documentation](https://docs.unity3d.com/Manual/UNet.html)
 
-
-
-`#FF0000` text
+(&#x1F534;) Cause of Unity's UNet Api beyond depricated and buggy, if the host closes the lobby while a other client is connected it cant automatically go back to main screen, cause of this the client user needs to press escape to back to the main menu.
