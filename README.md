@@ -21,4 +21,4 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 
 
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+- ![#FF0000][test]
